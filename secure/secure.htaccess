@@ -1,0 +1,4 @@
+AuthName "Dialog prompt"
+AuthType Basic
+AuthUserFile /home/brianyo/amicronics.com/_stage/secure/.htpasswd
+Require valid-user
