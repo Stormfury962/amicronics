@@ -25,7 +25,7 @@ Credit: Tem460
 		        		<h2>Unified Communications and Collaboration (UCC)</h2>
 						<p>Telephony - Web Conferencing - IM and Calendaring - Project Management<br>
 						Networking - Security- Administration</p>
-		        		<a href="docs/2008 why-ucc.pdf" class="large-button white-color">Why UCC? <i class="icon-button fas fa-download"></i></a>
+		        		<a href="secure/2008 why-ucc.pdf" class="large-button white-color">Why UCC? <i class="icon-button fas fa-download"></i></a>
 		        	</div> <!-- /.col-md-12 -->
 		        </div> <!-- /.row -->
 		    </div> <!-- /.container -->
@@ -37,7 +37,7 @@ Credit: Tem460
 			<div class="row">
 				<div class="col-md-12">
 					<h4 class="cta-title"><strong>Working from home?</strong> Communicate seamlessly from home or anywhere</h4>
-					<a href="docs/2008 workfromhome.pdf" class="main-button accent-color">Learn More<i class="icon-button fas fa-arrow-right"></i></a>
+					<a href="secure/2008 workfromhome.pdf" class="main-button accent-color">Learn More<i class="icon-button fas fa-arrow-right"></i></a>
 				</div> <!-- /.col-md-12 -->
 			</div> <!-- /.row -->
 		</div> <!-- /.container -->
